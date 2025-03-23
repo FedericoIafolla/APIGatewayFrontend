@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import "./ApiGateway.css";
 
+// aggiungere sidebar, navbar e impostazione generale. Inoltre aggiungere collegamento per e-commerce
+
 const services = [
     { name: "Servizio 1", path: "service1" },
     { name: "Servizio 2", path: "service2" },
